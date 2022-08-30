@@ -1,0 +1,5 @@
+fake_useragent==0.1.11
+selenium==4.1.0
+pymysql==1.0.2
+apache-airflow-providers-dingding==3.0.0
+webdriver-manager

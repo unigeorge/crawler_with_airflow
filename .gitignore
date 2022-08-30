@@ -1,0 +1,10 @@
+.vscode
+.idea
+**/credentials/*
+!**/credentials/*_template.py
+logs/
+airflow.cfg
+**/*.pyc
+**/error*
+**/config.py
+./airflow.cfg
